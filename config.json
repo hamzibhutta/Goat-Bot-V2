@@ -15,8 +15,8 @@
 		"ignoreCommand": []
 	},
 	"adminBot": [],
-	"nickNameBot": "GoatBot",
-	"prefix": "-",
+	"nickNameBot": "Winiix",
+	"prefix": "*",
 	"database": {
 		"type": "sqlite",
 		"uriMongodb": "",
